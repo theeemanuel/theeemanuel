@@ -1,4 +1,5 @@
-- #👋-Hi,-I’m-Emanuel
+#Hi
+- 👋 I’m Emanuel
 - 🌱 I’m currently doing my Masters in Physics
 - 👀 I use coding as a mathematical tool in Physics, and sometimes as recreation
 <!---
